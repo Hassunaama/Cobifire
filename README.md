@@ -16,4 +16,4 @@ For already existing servers, the Cobifire wizard works as well! It automaticall
 
 ## Perfect! How can I download it, and for what server systems?
 
-You can download it our [Modrinth](https://modrinth.com/plugin/cofabire) for Paper and Velocity! (NOTE! Cobifire is still in an public ALPHA so it might have a LOT of bugs!) If you have an Velocity proxy server, install the plugin on your Velocity server AND your Paper servers! If you have an independent Paper server, install it to it.
+You can download it our [Modrinth](https://modrinth.com/plugin/cobifire) for Paper and Velocity! (NOTE! Cobifire is still in an public ALPHA so it might have a LOT of bugs!) If you have an Velocity proxy server, install the plugin on your Velocity server AND your Paper servers! If you have an independent Paper server, install it to it.
